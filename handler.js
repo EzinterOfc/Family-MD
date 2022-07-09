@@ -32,15 +32,15 @@ module.exports = {
         global.author = global.data.owner
         //global.author = 'Ryan || JB'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' -Ryan || JB'
+        global.wm = namabot + 'Yann-Bot'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy Yann || Store'
+        global.colong2 = 'Jgn Lupa Sv Kontak Owner Gamteng😎 : 6282252285143'
         global.kontak2 = [
         ['6282252285143', 'Ryan', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'ryanndevelopment@gmail.com ', true],
-        ['6282252285143', await this.getName('6283823916413@s.whatsapp.net'), 'Owner1', 'ryanjebeh@gmail.com', false],
+        ['6282252285143', await this.getName('6283823916413@s.whatsapp.net'), 'owner1', 'ryanjebeh@gmail.com', false],
         ['6282350496532', 'Yann-Bot', 'Bot WhatsApp', 'Nothing!', true],
-        ['6282252285143', await this.getName('6282252285143@s.whatsapp.net'), 'owner2', 'ryanjebeh@gmail.com', false],
-        ['6282252285143', await this.getName('6282252285143@s.whatsapp.net'), 'owner3', 'ryanjebeh@gmail.com', false],
+        ['6282252285143', await this.getName('6288276639962@s.whatsapp.net'), 'owner2', 'ryanjebeh@gmail.com', false],
+        ['0', await this.getName('0@s.whatsapp.net'), 'whatsapp', 'whatsapp.fax@gmail.com ', true],
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
