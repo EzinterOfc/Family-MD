@@ -38,7 +38,7 @@ module.exports = {
         global.kontak2 = [
         ['6285600380823', 'Fᴀɪsᴀʟ', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'rafilukmanufaizal@gmail.com ', true],
         ['6285600380823', await this.getName('6285600380823@s.whatsapp.net'), 'owner1', 'rafilukmanufaizal@gmail.com', false],
-        ['6282153954737', 'Neo-Bot', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285693650294', 'Neo-Bot', 'Bot WhatsApp', 'Nothing!', true],
         ['6285600380823', await this.getName('6285693650294@s.whatsapp.net'), 'owner2', 'rafilukmanufaizal@gmail.com', false],
         ['0', await this.getName('0@s.whatsapp.net'), 'whatsapp', 'whatsapp.fax@gmail.com ', true],
         ]
