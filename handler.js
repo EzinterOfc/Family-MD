@@ -30,16 +30,16 @@ module.exports = {
         global.namabot = conn.user.name
         global.packname = global.namabot
         global.author = global.data.owner
-        //global.author = 'Ryan || JB'
+        //global.author = 'NEO || BOTZ '
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + '-𝓡𝔂𝓪𝓷 𝓐𝓭𝓲𝓽𝔂𝓪'
+        global.wm = namabot + '-Fᴀɪsᴀʟ☂︎'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'Jgn Lupa Sv Kontak Owner Gamteng😎 : 6282252285143'
+        global.colong2 = 'Jgn Lupa Sv Kontak Owner Gamteng😎 : 6285600380823'
         global.kontak2 = [
-        ['6282252285143', 'Ryan', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'ryanndevelopment@gmail.com ', true],
-        ['6282252285143', await this.getName('6283823916413@s.whatsapp.net'), 'owner1', 'ryanjebeh@gmail.com', false],
-        ['6282350496532', 'Yann-Bot', 'Bot WhatsApp', 'Nothing!', true],
-        ['6282252285143', await this.getName('6288276639962@s.whatsapp.net'), 'owner2', 'ryanjebeh@gmail.com', false],
+        ['6285600380823', 'Fᴀɪsᴀʟ', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'rafilukmanufaizal@gmail.com ', true],
+        ['6285600380823', await this.getName('6285600380823@s.whatsapp.net'), 'owner1', 'rafilukmanufaizal@gmail.com', false],
+        ['6282153954737', 'Neo-Bot', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285600380823', await this.getName('6285693650294@s.whatsapp.net'), 'owner2', 'rafilukmanufaizal@gmail.com', false],
         ['0', await this.getName('0@s.whatsapp.net'), 'whatsapp', 'whatsapp.fax@gmail.com ', true],
         ]
         global.bg = await (await fetch(img)).buffer()
